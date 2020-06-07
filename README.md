@@ -1,11 +1,11 @@
 # Numerical Tic Tac Toe - WHO Academy coding challenge
 Alexis Navarian - 07/06/2020 <br/>
 
-**Submission**
+**Submission** <br/>
 Submission is given as WHO Academy - Numerical Tic Tac Toe.ipynb (Jupyter Notebook File)
 A simple python script is also available, see : WHO Academy - Numerical Tic Tac Toe.py (but I still recommend the .ipynb)
 
-**Dependencies**
+**Dependencies** <br/>
 The project has been realized using :
 - Python 3.7
 - Numpy (every version should work)
