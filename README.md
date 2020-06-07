@@ -1,4 +1,4 @@
-# Numerical Tic Tac Toe - WHO Academy coding challenge
+# Numerical Tic Tac Toe with minimax AI - WHO Academy coding challenge
 Alexis Navarian - 07/06/2020 <br/>
 
 **Submission** <br/>
