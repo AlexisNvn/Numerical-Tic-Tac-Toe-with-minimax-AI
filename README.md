@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Numerical Tic Tac Toe - WHO Academy coding challenge
 Alexis Navarian - 07/06/2020 <br/>
 
