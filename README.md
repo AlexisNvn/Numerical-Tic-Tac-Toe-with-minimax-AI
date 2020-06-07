@@ -2,7 +2,7 @@
 Alexis Navarian - 07/06/2020 <br/>
 
 **Submission** <br/>
-Submission is given as WHO Academy - Numerical Tic Tac Toe.ipynb (Jupyter Notebook File)
+Submission is given as WHO Academy - Numerical Tic Tac Toe.ipynb (Jupyter Notebook File) <br/>
 A simple python script is also available, see : WHO Academy - Numerical Tic Tac Toe.py (but I still recommend the .ipynb)
 
 **Dependencies** <br/>
