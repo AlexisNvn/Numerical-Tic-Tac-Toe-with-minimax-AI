@@ -24,7 +24,7 @@ The project has been realized using :
 - Super class Player that have "numbers" as attributes, which is the list of available numbers to the player. 
 - Class Human_Player and AI_Player inherits from the Player class and have a specific function "get_move".
 - Human_Player "get_move" function uses user input 
-- AI_player "get_move" function uses the game configuration to output the best move calculated with an algorithm. $\quad$ Ex : minimax or random
+- AI_player "get_move" function uses the game configuration to output the best move calculated with an algorithm.  Ex : minimax or random
 - class Game : implementation of the whole game logic
 
 ***Project specificities :***
