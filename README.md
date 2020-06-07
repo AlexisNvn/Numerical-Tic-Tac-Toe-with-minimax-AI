@@ -1,5 +1,5 @@
 # Numerical Tic Tac Toe with minimax AI 
-**WHO Academy coding challenge**
+**WHO Academy coding challenge** <br/>
 Alexis Navarian - 07/06/2020 <br/>
 
 **Submission** <br/>
