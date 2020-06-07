@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Numerical Tic Tac Toe - WHO Academy coding challenge
 Alexis Navarian - 07/06/2020 <br/>
 
@@ -13,12 +15,12 @@ The project has been realized using :
 
 ***Rules :***
 - Turn by turn game on a n x n board
-- Goal is to make a line, column or diagonal equal to $\frac{n(n^2+1)}{2}$.    $\quad$ Ex : n = 3 $\Rightarrow$ 15
-- Player 1 can only use odd numbers while Player 2 can only use even numbers. $\quad$ Ex : n = 3 $\Rightarrow$ P1 : [1,3,5,7] - P2 : [2,4,6,8]
+- Goal is to make a line, column or diagonal equal to n(n^2+1)/2.   Ex : n = 3 -> 15
+- Player 1 can only use odd numbers while Player 2 can only use even numbers.   Ex : n = 3 -> P1 : [1,3,5,7] - P2 : [2,4,6,8]
 
 ***Assumptions :***
 - One number can't be placed twice. Once a number is placed, it disappear from the list of possibilities.
-- A player wins only if a row/column/diagonal is FULL and its sum is equal to 15 (for n=3). $\quad$ Ex : (7 8 EmptyCell) doesn't work
+- A player wins only if a row/column/diagonal is FULL and its sum is equal to 15 (for n=3).   Ex : (7 8 EmptyCell) doesn't work
 
 ***Coding idea :***
 - Super class Player that have "numbers" as attributes, which is the list of available numbers to the player. 
