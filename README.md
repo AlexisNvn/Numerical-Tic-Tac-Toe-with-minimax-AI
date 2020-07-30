@@ -1,6 +1,7 @@
 # Numerical Tic Tac Toe with minimax AI 
 **WHO Academy coding challenge** <br/>
 Alexis Navarian - 07/06/2020 <br/>
+*2 days challenge*
 
 **Submission** <br/>
 Submission is given as WHO Academy - Numerical Tic Tac Toe.ipynb (Jupyter Notebook File) <br/>
